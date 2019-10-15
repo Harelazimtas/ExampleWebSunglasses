@@ -9,6 +9,6 @@ The full website: <a href="https://github.com/Harelazimtas/Web-Sunglasses-Shop">
 The table shows a message by clicking on the cells.
 <br>
 <h4>The Shape rotate:</h4>
-Three hidden shapes and 2 buttons.
+Three hidden shapes and 2 buttons. 
 One button for displaying / hiding shapes randomly,When only one form appears at most.
 A second button to rotate the shape that appears, the rotation will do at a random angle.
