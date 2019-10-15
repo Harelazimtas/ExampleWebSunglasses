@@ -1,0 +1,49 @@
+body{
+  background:#191970;
+}
+
+div{
+  background:#FFE4B5;
+  width: 300px;
+  padding: 10px 50px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+h2{
+  font-family: cursive;
+  position: absolute;
+  text-align: center;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-transform: uppercase;
+
+}
+
+table{
+  background: inherit;
+  text-align: center;
+  width: 300px;
+  font-family: fantasy;
+  font-size: 30px;
+  border: 1px solid blue;
+}
+
+td,tr{
+  border: 1px solid blue;
+}
+
+td:hover{
+  font-family: sans-serif;
+  background: red;
+  border-color: white;
+}
+
+
+div a{
+  padding-left: 117px;
+  color: black;
+  font-size: 30px;
+}
