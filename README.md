@@ -15,6 +15,6 @@ The table shows a message by clicking on the cells.
 <h4>The Shape rotate:</h4>
 <pre>
 Three hidden shapes and 2 buttons.
-One button for displaying / hiding shapes randomly,When only one form appears at most.
+One button for displaying / hiding shapes randomly,When only one shape appears at most.
 A second button to rotate the shape that appears, the rotation will do at a random angle.
 </pre>
