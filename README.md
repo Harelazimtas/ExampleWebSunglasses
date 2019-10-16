@@ -1,6 +1,7 @@
 # ExampleWebSunglasses
 This project is an example of the Sunglasses project. The program allows viewing of some pages without downloading the entire project.
-
+<br>
+The web: <a href="https://harelazimtas.github.io/Example_Web_projects/">Click here</a>
 <h4>The login:</h4>
 <pre>
 The login page is a page of project SunGlasses.<br>
