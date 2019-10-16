@@ -1,6 +1,7 @@
 # ExampleWebSunglasses
 <p>
-  This project is an example of the Sunglasses project. 
+  This project is an example of the Sunglasses project.
+  <br>
   The program allows viewing of some pages without downloading the entire project.
   <br>
   The web: <a href="https://harelazimtas.github.io/Example_Web_projects/">Click here</a>
