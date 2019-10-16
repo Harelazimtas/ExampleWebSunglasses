@@ -4,7 +4,7 @@
   <br>
   The program allows viewing of some pages without downloading the entire project.
   <br>
-  The web: <a href="https://harelazimtas.github.io/Example_Web_projects/">Click here</a>
+  The web: <a href="https://harelazimtas.github.io/Example_Web_projects/" target="_blank">Click here</a>
 </p>
 <h4>The login:</h4>
 <pre>
