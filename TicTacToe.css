@@ -1,0 +1,46 @@
+td,tr{
+  border: 1px solid gray;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  cursor: pointer;
+  font-family: fantasy;
+  font-size: 60px;
+}
+
+td:hover{
+  background: #C6FDFF;
+
+}
+table{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  background-color: #A1DDE3;
+  margin: 10px;
+  border-collapse: collapse;
+}
+
+body{
+  background-image: url(image/hi-tech-speed.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% ;
+  color: #FFFD8F;
+  font-family: sans-serif;
+  padding: 10px;
+}
+
+h1{
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+div{
+  margin: 10px 10px;
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%,-20%);
+}
