@@ -1,8 +1,7 @@
-# ExampleWebSunglasses
+# Example_Web_projects.
 <p>
-  This project is an example of the Sunglasses project.
+  This project is an example of the Web projects.
   <br>
-  The program allows viewing of some pages without downloading the entire project.
   <br>
   The web: <a href="https://harelazimtas.github.io/Example_Web_projects/" target="_blank">Click here</a>
 </p>
@@ -23,3 +22,6 @@ Three hidden shapes and 2 buttons.
 One button for displaying / hiding shapes randomly,When only one shape appears at most.
 A second button to rotate the shape that appears, the rotation will do at a random angle.
 </pre>
+<br>
+<h4>The Tic Tac Toe:</h4>
+<pre>
