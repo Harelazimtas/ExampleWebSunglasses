@@ -25,3 +25,5 @@ A second button to rotate the shape that appears, the rotation will do at a rand
 <br>
 <h4>The Tic Tac Toe:</h4>
 <pre>
+The Tic Tac Toe game as we all know it.
+</pre>
